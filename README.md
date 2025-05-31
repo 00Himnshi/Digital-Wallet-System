@@ -14,8 +14,7 @@ I used Flask-SQLAlchemy because it allows defining database models as Python cla
 - Full transaction history for each user
 - Basic fraud detection based on thresholds
 - Admin routes for monitoring flagged transactions, total balances, and top users
-- Clean and modular Flask project structure
-- 
+
 ## Two Major Database Models
 
 ### User
