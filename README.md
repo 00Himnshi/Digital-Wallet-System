@@ -1,4 +1,4 @@
-# Digital Wallet System (Flask)
+# Digital Wallet System 
 
 This is a digital wallet system implemented in Flask.
 
