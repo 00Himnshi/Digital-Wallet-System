@@ -1,5 +1,7 @@
-# Digital Wallet System 
+
 Here is the published postman collection:  https://documenter.getpostman.com/view/45486246/2sB2qgdxvh
+
+# Digital Wallet System 
 This is a digital wallet system implemented in Flask.
 
 I chose Flask because it's a lightweight, flexible, and modular Python web framework that allows for rapid development. It also integrates seamlessly with extensions like JWT for secure authentication, making it a great fit for building RESTful APIs in this wallet system.
